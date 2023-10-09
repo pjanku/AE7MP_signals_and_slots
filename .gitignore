@@ -1,3 +1,9 @@
+# CLion files
+/.idea
+# CMake files
+/cmake-build-*
+CMakeLists.txt.user
+
 # Prerequisites
 *.d
 
